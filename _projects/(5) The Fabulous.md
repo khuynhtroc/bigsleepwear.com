@@ -5,6 +5,7 @@ image: https://storage.googleapis.com/gd-wagtail-prod-assets/original_images/mat
 description: Fabulous is a science-based app, incubated in Duke's Behavioral Economics Lab, that will help you build healthy rituals into your life, just like an elite athlete.
 ---
 
+# The Fabulous
 
 Source: [atlassian](https://www.atlassian.com/git/tutorials/what-is-version-control)
 
