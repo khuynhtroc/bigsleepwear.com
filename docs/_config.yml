@@ -22,6 +22,13 @@ nav_exclude:                                            # The following paths ar
   - pages/index.md
   - documentation/partials/**                           # For Documentation Only
 
+### Navbar Settings ###
+nav_exclude:
+  - docs/pages/tags.html
+  - docs/pages/404.html
+  - docs/pages/index.md
+  - docs/pages/documentation/**
+
 
 ### Author Info ###
 author:
